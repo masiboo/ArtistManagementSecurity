@@ -1,11 +1,14 @@
 /home/runner/workspace/src/main/java/com/demo/security/controller/AuthController.java
-/home/runner/workspace/src/main/java/com/demo/security/service/UserService.java
-/home/runner/workspace/src/main/java/com/demo/security/model/UserRecord.java
 /home/runner/workspace/src/main/java/com/demo/security/model/AuthResponse.java
+/home/runner/workspace/src/main/java/com/demo/security/model/UserRecord.java
 /home/runner/workspace/src/main/java/com/demo/security/config/SecurityConfig.java
+/home/runner/workspace/src/main/java/com/demo/security/repository/UserRepository.java
 /home/runner/workspace/src/main/java/com/demo/security/model/AuthRequest.java
 /home/runner/workspace/src/main/java/com/demo/security/controller/DemoController.java
 /home/runner/workspace/src/main/java/com/demo/security/config/JwtAuthenticationFilter.java
-/home/runner/workspace/src/main/java/com/demo/security/SecurityDemoApplication.java
 /home/runner/workspace/src/main/java/com/demo/security/config/PasswordConfig.java
+/home/runner/workspace/src/main/java/com/demo/security/config/HttpConfig.java
 /home/runner/workspace/src/main/java/com/demo/security/service/JwtService.java
+/home/runner/workspace/src/main/java/com/demo/security/service/UserService.java
+/home/runner/workspace/src/main/java/com/demo/security/SecurityDemoApplication.java
+/home/runner/workspace/src/main/java/com/demo/security/controller/SecureEndpointController.java

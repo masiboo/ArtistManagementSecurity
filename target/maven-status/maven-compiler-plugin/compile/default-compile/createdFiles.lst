@@ -1,10 +1,14 @@
 com/demo/security/controller/AuthController.class
-com/demo/security/controller/DemoController.class
 com/demo/security/model/AuthResponse.class
 com/demo/security/SecurityDemoApplication.class
 com/demo/security/service/UserService.class
+com/demo/security/controller/SecureEndpointController.class
+com/demo/security/model/UserRecord$UserRecordBuilder.class
+com/demo/security/repository/UserRepository.class
+com/demo/security/controller/DemoController.class
 com/demo/security/config/PasswordConfig.class
 com/demo/security/model/UserRecord.class
+com/demo/security/config/HttpConfig.class
 com/demo/security/config/JwtAuthenticationFilter.class
 com/demo/security/service/JwtService.class
 com/demo/security/model/AuthRequest.class

@@ -28,6 +28,7 @@ task = "packager.installForAll"
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "mvn spring-boot:run"
+waitForPort = 8000
 
 [deployment]
 run = ["sh", "-c", "mvn spring-boot:run"]
